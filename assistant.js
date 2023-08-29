@@ -11,7 +11,7 @@ setTimeout(() => {
                         Chat.init({
                             header: 'Welcome to SAMI',
                             login_sub_header: 'Please tell us about yourself',
-                            connect_message: 'Do you have questions ? <br>Come chat with us, we are here to help you',
+                            connect_message: 'Anda punya pertanyaan? Silakan berbicara dengan SAMI, SAMI di sini siap membantu Anda.',
                             chat_sub_header: 'Sahabat MII',
                             url: 'https://mii.3dolphins.ai:1443',
                             client_id: '0a0791f981051e7f31aac10c163877f2',
