@@ -9,10 +9,10 @@ setTimeout(() => {
                 ).done(function () {
                     $.when($.getScript("/js/chat.js")).done(function () {
                         Chat.init({
-                            header: 'Welcome to Our Chat',
+                            header: 'Welcome to SAMI',
                             login_sub_header: 'Please tell us about yourself',
                             connect_message: 'Do you have questions ? <br>Come chat with us, we are here to help you',
-                            chat_sub_header: 'Our agent will serve you shortly',
+                            chat_sub_header: 'Sahabat MII',
                             url: 'https://mii.3dolphins.ai:1443',
                             client_id: '0a0791f981051e7f31aac10c163877f2',
                             client_secret: '48d82458ce95f56be9d9e3b9380f8c50',
